@@ -1,6 +1,18 @@
 MELODY CRAWFORD
 
+I currently reside in St. Louis City. 
+
+My goals for Data Analytics
+1. Increase my skillset by learning computer programming language.
+2. Learn how to analyze larger data sets into smaller data that can be easily explained.
+3. Secure a new role as a data analyst. 
+
+python web link: https://www.infoworld.com/article/2253770/what-is-python-powerful-intuitive-programming.html
+
+
+
 # Week 1 Homework and Goals
+
 
 <br >
 
